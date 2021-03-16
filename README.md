@@ -13,18 +13,22 @@ viewpoint.
 
 ## Descriptions
 
-### "Closing Chimera" | ./ff/
+### "Closing Chimera"
+#### `./ff/`
 This is a setup similar to old-school Final Fantasy. Your character will
 continue traversing tiles until you release the input button. There's also a
 nice walking animation.
-### "Random Rouge" | ./rogue/
+### "Random Rouge"
+#### `./rogue/`
 This works like even older-school Rogue games. A single button press will move
 the character one tile. You cannot hold the input button down (ideal for
 turn-based games).
-### "Random Rouge but Fancy" | ./rogue_tween/
+### "Random Rouge but Fancy"
+#### `./rogue_tween/`
 A happy medium between "Closing Chimera" and "Random Rouge". A single button
 press moves the character one tile, and it includes a nice animation.
-### "Properly Panzer" | ./tank/
+### "Properly Panzer"
+#### `./tank/`
 Because tank controls are objectively the best type of control. West/East
 controls turn the character, and North/South controls move them forward or
 backward.
