@@ -41,26 +41,26 @@ can use it for whatever you like. Here's how to use it:
 1. Pick whichever one you want to use
 2. Add the folder to your project
 3. To get controls to work, you will either need to:
-- Go into `Project > Project Settings.. > Input Map` and add
+	- Go into `Project > Project Settings.. > Input Map` and add
 	player_up
 	player_right
 	player_down
 	player_left
-- Go into the script and change references of `player_left`, `player_down`, etc.
+	- Go into the script and change references of `player_left`, `player_down`, etc.
   to `ui_left`, `ui_down`, etc.
 4. The character sheets are CC0 (care of [0x72's 2 Bit Character
    Generator](https://0x72.itch.io/2bitcharactergenerator)) so feel free to use
    them or swap them with your own.
 5. My code cleverly uses the animation names, so if you need to change the
    animations you'll need to make sure to keep the names. Here's a list:
-- facing_up
-- facing_down
-- facing_left
-- facing_right
-- step_up
-- step_down
-- step_left
-- step_right
+	- facing_up
+	- facing_down
+	- facing_left
+	- facing_right
+	- step_up
+	- step_down
+	- step_left
+	- step_right
 
 ## The World scene
 This is just a test scene to check out the different types of controls. There
