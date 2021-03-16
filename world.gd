@@ -1,10 +1,8 @@
 extends Node2D
 
 var ctrl_var = [
-	preload("res://modern/player.tscn"),
 	preload("res://tank/player.tscn"),
 	preload("res://ff/player.tscn"),
-	preload("res://test/player.tscn"),
 	preload("res://rogue/player.tscn"),
 	preload("res://rogue_tween/player.tscn"),
 	]
