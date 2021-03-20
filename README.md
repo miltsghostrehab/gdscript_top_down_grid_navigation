@@ -97,3 +97,10 @@ are only two unique controls:
 5. I think I learned the most from implementing the tank controls. I'll have to
    remember that next time.
 6. Turns out I like my code to be cute :-)
+
+## Credits
+All aspects of this script were developed by Jake of [Milt's Ghost Rehab](https://www.miltsghostrehab.xyz).
+The artwork was created by [0x72 from itch.io](https://0x72.itch.io/)
+- [2BitCharactersGenerator](https://0x72.itch.io/2bitcharactergenerator)
+- [16x16 DungeonTileset II](https://0x72.itch.io/dungeontileset-ii)
+(much of their stuff is free and openly licensed, and you should support them 'cos they make cool stuff)
